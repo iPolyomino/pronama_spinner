@@ -9,7 +9,7 @@
     const context = canvas.getContext('2d');
 
     const image = new Image();
-    image.src = '../image/money.png';
+    image.src = 'image/money.png';
     image.onload = () => {
         rotate();
     }

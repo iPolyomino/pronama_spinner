@@ -1,7 +1,7 @@
 <goml>
 	<scene>
 		<camera/>
-		<mesh scale="3" texture="../image/money.png">
+		<mesh scale="3" texture="image/money.png">
 			<mesh.components>
 				<Rotate2d speed="30"/>
       		</mesh.components>

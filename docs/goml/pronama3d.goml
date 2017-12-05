@@ -5,7 +5,7 @@
 				<MouseCameraControl/>
 			</camera.components>
 		</camera>
-		<mesh scale="2" geometry="cube" texture="../image/money.png">
+		<mesh scale="2" geometry="cube" texture="image/money.png">
 			<mesh.components>
         		<Rotate3d/>
       		</mesh.components>
