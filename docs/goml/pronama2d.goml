@@ -1,0 +1,10 @@
+<goml>
+	<scene>
+		<camera/>
+		<mesh scale="3" texture="../image/money.png">
+			<mesh.components>
+        		<Rotate2d/>
+      		</mesh.components>
+		</mesh>
+	</scene>
+</goml>
